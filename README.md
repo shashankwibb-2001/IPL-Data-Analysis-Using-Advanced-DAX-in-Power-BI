@@ -5,7 +5,7 @@ Developed a dynamic IPL data analysis dashboard using Power BI, covering match s
 
 2. DAX measures for total runs, wickets, boundaries, matches played
 
-3.Purple/Orange Cap analysis based on player performance per season
+3. Purple/Orange Cap analysis based on player performance per season
 
 4. Clean and interactive UI for performance comparison across seasons
 
